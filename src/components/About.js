@@ -5,7 +5,7 @@ export default function About() {
     <section id="about" className="container mx-auto p-6">
       <div className="flex flex-col my-12 md:flex-row">
         <div className="flex flex-col md:w-1/2">
-          <h2 className="font-bold text-2xl md:text-3xl">Hi, I Am</h2>
+          <h2 className="font-bold text-2xl md:text-3xl mb-4">About Me</h2>
           <span className="font-bold text-2xl text-thickBrownishYellow font-lobster md:text-3xl">
             Backend Developer
           </span>
