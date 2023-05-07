@@ -21,7 +21,8 @@ module.exports = {
       }
     },
     fontFamily: {
-      'lobster': ['Lobster', 'cursive']
+      'lobster': ['Lobster', 'cursive'],
+      'Raleway': ['Raleway', 'sans-serif']
     },
   },
   plugins: [],

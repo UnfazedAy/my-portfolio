@@ -9,7 +9,7 @@ export default function Navbar() {
             Ayomide Soniyi<span className="text-thickBrownishYellow text-4xl md:text-5xl">.</span>
           </h1>
         </div>
-        <div className="hidden space-x-6 md:flex">
+        <div className="hidden space-x-6 font-Raleway md:flex">
           <a href="#about" className="hover:text-thickBrownishYellow">
             About
           </a>
