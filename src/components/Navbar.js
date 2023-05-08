@@ -14,7 +14,7 @@ export default function Navbar() {
             About
           </a>
           <a href="#project" className="hover:text-thickBrownishYellow">
-            Project
+            Projects
           </a>
           <a href="#resume" className="hover:text-thickBrownishYellow">
             Resume

@@ -1,4 +1,4 @@
-import ownerImage from "../assets/owner_image.jpg";
+import ownerImage from "../assets/IMG_0190.jpeg";
 
 export default function About() {
   return (
@@ -26,7 +26,7 @@ export default function About() {
             Hire Me
           </button>
         </div>
-        <div className="my-image md:w-1/2 md:mt-8 md:ml-5 text-left">
+        <div className="my-image text-left mt-8 md:w-1/2 md:mt-8 md:ml-5">
           <img src={ownerImage} alt="owner" className="rounded-full" />
         </div>
       </div>
