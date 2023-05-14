@@ -1,7 +1,7 @@
 export default function Navbar() {
   return (
     // Navbar
-    <nav className="relative container mx-auto p-6">
+    <nav className="relative container mx-auto p-6 shadow-xl">
       {/* Flex Container */}
       <div className="flex items-center justify-between">
         <div className="pt-2">

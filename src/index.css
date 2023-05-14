@@ -3,19 +3,9 @@
 @tailwind utilities;
 
 body {
-  background: linear-gradient(to bottom, hsl(190, 89%, 85%), hsl(188, 85%, 95%));
+  /* background: linear-gradient(to bottom, hsl(190, 89%, 85%), hsl(188, 85%, 95%));
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: fixed; */
+  background-color: hsl(190, 89%, 18%);
+  color: white;
 }
-
-/* #about {
-  border: 1px solid black;
-} */
-
-/* nav {
-  border: 1px solid black;
-} */
-
-/* .my-image {
-  border: 1px solid black;
-} */

@@ -10,15 +10,15 @@ export default function About() {
             Backend Developer
           </span>
 
-          <p className="mt-6 mb-4 text-gray-700 font-Raleway text-left">
+          <p className="mt-6 mb-4 font-Raleway text-left">
             I'm a passionate backend developer with experience in Python, JavaScript, and Node.js. My focus is on designing and implementing efficient and scalable APIs using frameworks like Flask, Express, and FastAPI.
           </p>
 
-          <p className="text-gray-700 mb-4 font-Raleway text-left">
+          <p className="mb-4 font-Raleway text-left">
             With experience in working with databases, including SQL and NoSQL, I specialize in data modeling, optimization, and ensuring the security and performance of backend systems.
           </p>
 
-          <p className="text-gray-700 font-Raleway text-left">
+          <p className="font-Raleway text-left">
             I enjoy solving complex problems and creating seamless integrations between different systems. Continuously learning and exploring new technologies, I strive to write clean, maintainable code following best practices in backend development.
           </p>
 
