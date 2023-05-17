@@ -2,6 +2,8 @@ import ProjectCards from "./ProjectCards";
 import projectData from "./ProjectData";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 
 export default function Projects() {
   const myProjects = projectData.map((project) => {
@@ -10,7 +12,10 @@ export default function Projects() {
 
   return (
     <div id="project" className="container mx-auto p-6">
-      <h2 className="font-bold text-2xl md:text-3xl mb-4">Projects</h2>
+      <div className="flex space-x-3">
+        <h2 className="font-bold text-2xl md:text-3xl mb-4">Projects</h2>
+        <FontAwesomeIcon icon="fa-solid fa-laptop" size="2xl" color="hsl(39, 97%, 55%)" />
+      </div>
       {/* Project Cards */}
       <div className="hidden md:flex md:flex-wrap">{myProjects}</div>
 

@@ -3,9 +3,18 @@
 @tailwind utilities;
 
 body {
-  /* background: linear-gradient(to bottom, hsl(190, 89%, 85%), hsl(188, 85%, 95%));
-  background-repeat: no-repeat;
-  background-attachment: fixed; */
-  background-color: hsl(190, 89%, 18%);
+  background-color: #001220;
   color: white;
+}
+
+.wave {
+  aspect-ratio: 960 / 300;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.layer {
+  background-image: url(../src/assets/wave.svg);
 }

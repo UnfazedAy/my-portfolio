@@ -18,6 +18,7 @@ module.exports = {
         thickBrownishYellow: 'hsl(39, 97%, 55%)',
         cloudBlue: 'hsl(190, 89%, 85%)',
         lightBlue: 'hsl(188, 85%, 95%)',
+        darkBlue: 'hsl(211, 49%, 20%)',
       }
     },
     fontFamily: {

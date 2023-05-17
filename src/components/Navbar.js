@@ -21,7 +21,7 @@ export default function Navbar() {
           </a>
           <a
             href="#contact"
-            className="inline-block text-white bg-thickBrownishYellow rounded-full baseline hover:bg-brownishYellow focus:outline-none px-5 drop-shadow-md"
+            className="inline-block text-black bg-thickBrownishYellow rounded-full baseline hover:bg-brownishYellow focus:outline-none px-5 drop-shadow-md"
           >
             Contact
           </a>
