@@ -18,3 +18,22 @@ body {
 .layer {
   background-image: url(../src/assets/wave.svg);
 }
+
+
+@media (min-width: 320px) and (max-width: 450px) {
+  .cards {
+    height: 31rem;
+  }
+}
+
+@media (min-width: 1440px) {
+  .my-about {
+    .image {
+      height: 70%;
+    }
+
+    p {
+      font-size: 1.5rem;
+    }
+  }
+}

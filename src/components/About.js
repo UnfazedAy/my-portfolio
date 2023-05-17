@@ -2,7 +2,7 @@ import ownerImage from "../assets/IMG_0190.jpeg";
 
 export default function About() {
   return (
-    <section id="about" className="container mx-auto p-6">
+    <section id="about" className="container mx-auto p-6 my-about">
       <article className="flex flex-col my-12 md:flex-row">
         <div className="flex flex-col md:w-1/2">
           <h2 className="font-bold text-2xl md:text-3xl mb-4">About Me</h2>
@@ -27,7 +27,7 @@ export default function About() {
           </button>
         </div>
         <div className="my-image text-left mt-8 md:w-1/2 md:mt-8 md:ml-5">
-          <img src={ownerImage} alt="owner" className="rounded-full" />
+          <img src={ownerImage} alt="owner" className="rounded-full image" />
         </div>
       </article>
     </section>

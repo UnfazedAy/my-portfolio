@@ -26,6 +26,11 @@ module.exports = {
       'Raleway': ['Raleway', 'sans-serif']
     },
   },
-  plugins: [],
+  plugins: {
+    'postcss-import': {},
+    'tailwindcss/nesting': {},
+    tailwindcss: {},
+    autoprefixer: {},
+  }
 }
 
