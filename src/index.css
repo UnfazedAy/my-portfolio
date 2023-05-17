@@ -31,9 +31,12 @@ body {
     .image {
       height: 70%;
     }
+  }
+  p, a, span {
+    font-size: 1.5rem;
+  }
 
-    p {
-      font-size: 1.5rem;
-    }
+  li {
+    font-size: 1.2rem;
   }
 }
