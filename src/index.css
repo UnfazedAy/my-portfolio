@@ -24,6 +24,9 @@ body {
   .cards {
     height: 31rem;
   }
+  .resume-download {
+    margin-top: 4rem;
+  }
 }
 
 @media (min-width: 1440px) {

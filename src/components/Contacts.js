@@ -2,7 +2,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function Contacts() {
   return (
-    <footer id="contact">
+    <footer id="contact" className="mt-[7rem]">
       <div className="container flex flex-col mx-auto p-6 md:flex md:flex-row ">
         <div className="flex justify-center h-full space-x-4 mb-6 md:flex md:justify-start md:w-1/2">
           {/* Social maedia links */}
