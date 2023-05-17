@@ -28,15 +28,17 @@ body {
 
 @media (min-width: 1440px) {
   .my-about {
-    .image {
-      height: 70%;
-    }
+    margin-bottom: -5rem;
   }
-  p, a, span {
+  .my-about .image {
+    height: 80%;
+  }
+  p {
     font-size: 1.5rem;
+    line-height: 1.5;
   }
 
-  li {
-    font-size: 1.2rem;
+  li, a {
+    font-size: 1.3rem;
   }
 }
