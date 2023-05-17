@@ -41,4 +41,8 @@ body {
   li, a {
     font-size: 1.3rem;
   }
+
+  .phone, .copyright {
+    font-size: 1.3rem;
+  }
 }

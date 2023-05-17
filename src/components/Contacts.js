@@ -48,13 +48,13 @@ export default function Contacts() {
             Connect with me on any of my social handles either for hire,
             collaboration, or suggestions.
           </p>
-          <span className="text-sm italic mt-2">
+          <span className="text-sm italic mt-2 phone">
             <FontAwesomeIcon icon="fa-solid fa-phone" size="sm" /> +234
             7081082172, +234 8143939157
           </span>
         </div>
       </div>
-      <p className="italic text-sm text-center pb-6">
+      <p className="italic text-sm text-center pb-6 copyright">
         Copyright &copy; Ayomide Soniyi 2023, All Rights Reserved
       </p>
     </footer>
