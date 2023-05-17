@@ -48,8 +48,8 @@ export default function Contacts() {
             Connect with me on any of my social handles either for hire,
             collaboration, or suggestions.
           </p>
-          <span className="text-sm italic mt-2 phone">
-            <FontAwesomeIcon icon="fa-solid fa-phone" size="sm" /> +234
+          <span className="text-sm italic mt-2 text-thickBrownishYellow phone">
+            <FontAwesomeIcon icon="fa-solid fa-phone" size="sm" color="white" /> +234
             7081082172, +234 8143939157
           </span>
         </div>
