@@ -17,7 +17,7 @@ export default function Contacts() {
             href="https://twitter.com/SoniyiAyomide_"
             target="_blank"
             rel="noreferrer"
-          >
+          > 
             <FontAwesomeIcon icon="fa-brands fa-twitter" size="2xl" />
           </a>
           <a

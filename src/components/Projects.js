@@ -1,7 +1,6 @@
 import ProjectCards from "./ProjectCards";
 import projectData from "./ProjectData";
-import { Carousel } from "react-responsive-carousel";
-import "react-responsive-carousel/lib/styles/carousel.min.css";
+import Carousel from 'react-material-ui-carousel';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 
