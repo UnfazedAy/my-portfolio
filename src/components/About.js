@@ -11,7 +11,7 @@ export default function About() {
 
   return (
     <section id="about" className="container mx-auto p-6 my-about">
-      <article className="flex flex-col my-12 md:flex-row md:text-justify">
+      <article className="flex flex-col my-12 md:flex-row lg:text-justify">
         <div className="flex flex-col md:w-1/2">
           <h2 className="font-bold text-2xl md:text-3xl mb-4">About Me</h2>
           <span className="font-bold text-2xl text-thickBrownishYellow font-lobster md:text-3xl">
