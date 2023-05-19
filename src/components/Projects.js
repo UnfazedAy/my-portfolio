@@ -24,7 +24,7 @@ export default function Projects() {
           {myProjects}
         </Carousel>
       </div>
-      <p>
+      <p className="mt-4">
         For more visit my{" "}
         <a
           href="https://github.com/UnfazedAy"

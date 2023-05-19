@@ -17,7 +17,7 @@ export default function Contacts() {
             href="https://twitter.com/SoniyiAyomide_"
             target="_blank"
             rel="noreferrer"
-          > 
+          >
             <FontAwesomeIcon icon="fa-brands fa-twitter" size="2xl" />
           </a>
           <a
@@ -48,7 +48,7 @@ export default function Contacts() {
             Connect with me on any of my social handles either for hire,
             collaboration, or suggestions.
           </p>
-          <span className="text-sm italic mt-2 text-thickBrownishYellow phone">
+          <span className="phone text-sm italic mt-2 text-thickBrownishYellow space-x-3">
             <FontAwesomeIcon icon="fa-solid fa-phone" size="sm" color="white" /> +234
             7081082172, +234 8143939157
           </span>
