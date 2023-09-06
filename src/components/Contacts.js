@@ -18,7 +18,7 @@ export default function Contacts() {
             target="_blank"
             rel="noreferrer"
           >
-            <FontAwesomeIcon icon="fa-brands fa-square-x-twitter" />
+            <FontAwesomeIcon icon="fa-brands fa-twitter" size="2xl" />
           </a>
           <a
             href="https://www.linkedin.com/in/ayomide-soniyi-3151461a5/"
