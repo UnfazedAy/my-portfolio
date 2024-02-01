@@ -9,7 +9,7 @@ export default function Projects() {
   const [projectData, setProjectData] = useState([]);
   useEffect(() => {
     axios
-      .get("https://myportfolio-api.up.railway.app/api/v1/projects")
+      .get("https://portfolio-api-l1oc.onrender.com/api/v1/projects")
       .then((response) => setProjectData(response.data.data))
       .catch((error) => console.error(`Error fetching project data: ${error.message}`))
   }, []);
